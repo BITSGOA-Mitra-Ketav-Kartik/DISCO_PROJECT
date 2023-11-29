@@ -1,0 +1,7 @@
+profA 1 ugcdc1,ugcdc3 ugele2 hdcdc1 hdele1
+profB 1 - ugele5,ugele3 hdcdc1,hdcdc2 hdele2
+profC 1 ugcdc2 ugele2,ugele7 hdcdc2 hdele3
+profD 1.5 ugcdc2,ugcdc3 ugele2 hdcdc3 hdele1
+profE 1 ugcdc3 - hdcdc2 hdele3
+profF 0.5 - - hdcdc3 -
+END

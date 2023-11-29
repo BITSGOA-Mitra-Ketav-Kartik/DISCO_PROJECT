@@ -1,0 +1,14 @@
+profA 1 ugcdc1,ugcdc3 ugele2,ugele1 hdcdc1,hdcdc4 hdele1
+profB 1 ugcdc4 ugele5,ugele3 hdcdc1,hdcdc2 hdele2
+profC 1 ugcdc2 ugele2 hdcdc2 hdele3
+profD 1.5 ugcdc2,ugcdc3 ugele2 hdcdc3 hdele1
+profE 1 ugcdc3 ugele6 - hdele3
+profF 0.5 - ugele6 hdcdc3 -
+profG 1 ugcdc4 ugele4 hdcdc4 -
+profH 1 ugcdc4 ugele1,ugele3,ugele4 - -
+profI 1 ugcdc5 ugele5,ugele6 - -
+profJ 1 ugcdc5 ugele7 - -
+profK 1 ugcdc5 ugele4,ugele1 - hdele1
+profL 1 ugcdc4 ugele3 - hdele2
+profM 1 ugcdc5 ugele7 - hdele2,hdele3
+END
