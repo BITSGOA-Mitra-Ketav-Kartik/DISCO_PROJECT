@@ -1,0 +1,3154 @@
+30 POSSIBLE ALLOTMENTS AFTER ALLOTING CDCS
+30 POSSIBLE COMBINATIONS AFTER CHECKING PROFESSORS WORK LOAD CONSTRAINTS
+225 FINAL COMBINATIONS AFTER ALLOTING ELECTIVES AND SATISFYING WORK LOAD CONSTRAINTS
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele3 profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele3 profH profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele3 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele4 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele3 profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele3 profH profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele3 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele4 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele4 profH 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele1 profK 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele1 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele4 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele4 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele1 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele1 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profK 
+ugele1 profH profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profK 
+ugele1 profH profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profK 
+ugele4 profH profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profK 
+ugele4 profH profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK profM 
+ugele1 profH profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK profM 
+ugele1 profH profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK profM 
+ugele4 profH profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profL profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK profM 
+ugele4 profH profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele3 profL 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profH profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele3 profH profL 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele4 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele3 profH 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele1 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele1 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele2 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profI 
+ugele3 profL 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profK 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profH profL 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profI 
+ugele3 profH profL 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profK 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele3 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele1 profK 
+ugele4 profH 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profI 
+ugele3 profH 
+ugele4 profK 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele5 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele6 profI 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele1 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele1 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+hdele3 profM 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profK 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profL 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ 
+ugele3 profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele3 profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profJ profM 
+ugele3 profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele3 profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH 
+ugcdc5 profM 
+ugele3 profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ 
+ugele3 profH profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele3 profH profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profJ profM 
+ugele3 profH profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profH profL 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profH profL 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele3 profH profL 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profH profL 
+ugcdc5 profM 
+ugele3 profH profL 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele3 profH 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele1 profK 
+ugele4 profH 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ 
+ugele3 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele1 profK 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele3 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profJ profM 
+ugele3 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ profM 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profH profK 
+ugele4 profH profK 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele3 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele4 profH 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele1 profK 
+ugele4 profH 
+ugele6 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele3 profH 
+ugele4 profK 
+ugele5 profI 
+ugele7 profJ 
+
+hdcdc1 profB 
+hdcdc2 profC 
+hdcdc3 profD profF 
+hdcdc4 profG 
+ugcdc1 profA 
+ugcdc2 profD 
+ugcdc3 profE 
+ugcdc4 profL 
+ugcdc5 profM 
+ugele3 profH 
+ugele4 profK 
+ugele6 profI 
+ugele7 profJ 
+
+- - - - - -THE END- - - - - -
